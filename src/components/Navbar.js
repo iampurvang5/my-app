@@ -18,7 +18,7 @@ export class Navbar extends Component {
                 <a className="nav-link" href="/" style={{color:"white"}}>About Us</a>
               </li>
               
-              <h1 className="Heading"  style={{color:"white"}}>Hello!</h1>
+              
               
             </ul>
             <form className="d-flex" role="search">
